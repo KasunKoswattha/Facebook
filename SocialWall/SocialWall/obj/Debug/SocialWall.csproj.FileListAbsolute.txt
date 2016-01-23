@@ -1,0 +1,11 @@
+C:\Users\Kasun\documents\visual studio 2015\Projects\SocialWall\SocialWall\bin\Debug\SocialWall.exe
+C:\Users\Kasun\documents\visual studio 2015\Projects\SocialWall\SocialWall\bin\Debug\SocialWall.pdb
+C:\Users\Kasun\documents\visual studio 2015\Projects\SocialWall\SocialWall\bin\Debug\Facebook.dll
+C:\Users\Kasun\documents\visual studio 2015\Projects\SocialWall\SocialWall\bin\Debug\Facebook.xml
+C:\Users\Kasun\documents\visual studio 2015\Projects\SocialWall\SocialWall\obj\Debug\SocialWall.csprojResolveAssemblyReference.cache
+C:\Users\Kasun\documents\visual studio 2015\Projects\SocialWall\SocialWall\obj\Debug\SocialWall.Form1.resources
+C:\Users\Kasun\documents\visual studio 2015\Projects\SocialWall\SocialWall\obj\Debug\SocialWall.Properties.Resources.resources
+C:\Users\Kasun\documents\visual studio 2015\Projects\SocialWall\SocialWall\obj\Debug\SocialWall.csproj.GenerateResource.Cache
+C:\Users\Kasun\documents\visual studio 2015\Projects\SocialWall\SocialWall\obj\Debug\SocialWall.exe
+C:\Users\Kasun\documents\visual studio 2015\Projects\SocialWall\SocialWall\obj\Debug\SocialWall.pdb
+C:\Users\Kasun\documents\visual studio 2015\Projects\SocialWall\SocialWall\obj\Debug\SocialWall.Wall.resources
